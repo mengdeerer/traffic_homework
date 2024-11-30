@@ -1,3 +1,4 @@
 frame/
-video.mp4
+*.mp4
 *.pdf
+outframe/
