@@ -2,3 +2,6 @@ frame/
 *.mp4
 *.pdf
 outframe/
+CNN_traffic_image/
+*.zip
+CNN_traffic_image/
