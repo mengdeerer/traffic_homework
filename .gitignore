@@ -5,3 +5,4 @@ frame/
 outframe/
 CNN_traffic_image/
 *.zip
+traffic_signs/
